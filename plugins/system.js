@@ -15,17 +15,17 @@ try{
 
     let status = `
 ───────────────────
-_*⚙️ Cudu Nona's Sys Info ⚙️*_
+_*⚙️ ᴜʙᴇᴛᴛᴀ's Sys Info ⚙️*_
 ───────────────────
 
 ┌────────────────
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Asᴍᴏᴅᴇᴜs Eᴘᴢɪ_
+│❖ *ᴏᴡɴᴇʀ :* _ᴜʙᴇᴛᴛᴀ_
 └────────────────
 
-> ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ    
+> ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴜʙᴇᴛᴛᴀ    
 `
 
     return reply(`${status}`)
