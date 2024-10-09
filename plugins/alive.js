@@ -20,25 +20,25 @@ let desc = `
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Asᴍᴏᴅᴇᴜs Eᴘᴢɪ_
+│❖ *ᴏᴡɴᴇʀ :* _ᴜʙᴇᴛᴛᴀ_
 └────────────────
 
-*Oyage Cudu nona Innawa patiyo👸🏻*
+*marila na yako 💀*
 
 ┌────────────────
-│ _*Epzi'ge Cudu Nona's Official Web Site*_
-│ Thama ehema ekk nh issarahata hadannm
+│ _*ᴜʙᴇᴛᴛᴀ ge Official Web Site*_
+│ kiyannema na
 └────────────────
 ┌────────────────
-│ _*Cudu Nonage Github Repo eka*_
-│ Den nh palayan 
+│ _*ᴜʙᴇᴛᴛᴀ ge Github Repo eka*_
+│ Den nh palayan ☠️
 └────────────────
 ┌────────────────
 │ _*Apilage Group eka*_
 │ https://chat.whatsapp.com/FUYcvrXn9zm6BHbFznMSpn
 └────────────────
 
-> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ  🧑🏻‍💻*
+> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴜʙᴇᴛᴛᴀ 😾*
 > Master Piece is Alexa by Sadeesha
 `
 return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
