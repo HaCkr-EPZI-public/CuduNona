@@ -38,8 +38,8 @@ let desc = `
 │ https://chat.whatsapp.com/FUYcvrXn9zm6BHbFznMSpn
 └────────────────
 
-> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴜʙᴇᴛᴛᴀ 😾*
-> Master Piece is Alexa by Sadeesha
+> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ Asᴍᴏᴅᴇᴜs Eᴘᴢɪ 😾*
+> Master Piece is Cudu Nona By Epzi
 `
 return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/tZzBS47/image.jpg`},caption: desc},{quoted: mek})
 
