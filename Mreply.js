@@ -3,6 +3,13 @@
 "BOT_NAME": "Queen-D ~ Jarvis",
 "VERSION": "2.5.0",
 "CREATED_BY": "Asᴍᴏᴅᴇᴜs Eᴘᴢɪ",
+"button":"Queen D ~ Jarvis",
+"footer":"> *Insta:* https://www.instagram.com/yuren.sasanka/\n\n> Asᴍᴏᴅᴇᴜs Eᴘᴢɪ",
+"buttonurl":"https://whatsapp.com/channel/0029VaupS84HFxOsQ9NPz73H",
+"imageurl":"https://i.ibb.co/Pr4BfhZ/1500x1500.png",
+"header":"*Queen D ~ Jarvis",
+"videourl":"https://github.com/HaCkr-EPZI-public/CuduNona/raw/refs/heads/main/media/VID-20241110-WA0141(1).mp4"
+
   
 "replyMsg": {
   
