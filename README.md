@@ -101,13 +101,13 @@ jobs:
 
 <div align="center">
     
-| Owner 👤             | Language 🗣️	      | Licence 🪪            | 
-|----------------------|----------------------|----------------------|
-| [![Owner](https://img.shields.io/badge/Author-Epzi-red.svg)](https://github.com/HaCkr-EPZI-public) |![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/HaCkr-EPZI-public/Epzige_cudu_nona/blob/main/LICENSE) 
+| Owner 👤             | Language 🗣️	      |
+|----------------------|----------------------|
+| [![Owner](https://img.shields.io/badge/Author-Epzi-red.svg)](https://github.com/HaCkr-EPZI-public) |![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
 
-| Version 💻 	      | Maintained 🤌🏻	    |
-|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/PikaBotz/Anya_v2-Md.svg)](https://github.com/HaCkr-EPZI-public/Epzige_cudu_nona) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/HaCkr-EPZI-public/Epzige_cudu_nona/graphs/commit-activity) |
+| Maintained 🤌🏻	      |
+|---------------------|
+| [![Maintenance](https://img.shields.io/badge/maintained%3F-no-red.svg)](https://github.com/HaCkr-EPZI-public/Epzige_cudu_nona/graphs/commit-activity) |
 
 
 </div>
