@@ -88,7 +88,6 @@ jobs:
 
 | Asmodeus Epzi 👤         |                  
 |--------------------------|
-| [![Owner](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013)](https://github.com/HaCkr-EPZI-public/) |
 | <div align="center"> Owner , Developer</div> |
 
 </div>
