@@ -26,7 +26,7 @@
 </div>
 <hr>
 
-			Credit Goes to Sadeesha Aiya Queen Alexa Developer team. This is Fully moded and edited Version of Queen Alexa.
+			Aaah pumkada balanne den naa mewwa .
 
 <h3>1. Fork This Repo</h3> 
 <h3>2.Get Your SESSION ID 👇</h3> 
