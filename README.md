@@ -5,7 +5,7 @@
 <img src="https://i.ibb.co/tZzBS47/image.jpg" width="300" height="300">
 </div>
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Epzige+Cudu+Nona's+Profile...;Created+by+Asmodeus+Epzi...;Epzi+Mage+Mn+Epzige+<3...;Simple+Java+Script+Bot...;Private+bot...;Thnks+For+Using+my+bot..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Epzige+Cudu+Nona's+Profile...;Created+by+Asmodeus+Epzi..."
             alt="Typing">
 
 <div align="center">
@@ -26,7 +26,7 @@
 </div>
 <hr>
 
-			Aaah pumkada balanne den naa mewwa .
+			This is a Outdated Repo There is no Longer Updates and I think This wont work anymore :(...
 
 <h3>1. Fork This Repo</h3> 
 <h3>2.Get Your SESSION ID 👇</h3> 
@@ -75,7 +75,7 @@ jobs:
       run: npm start
 ```
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Epzi" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=No+Longer+Updates!...;This+is+a+outdated+repo..." alt="">
 <hr>
 
 
@@ -88,8 +88,8 @@ jobs:
 
 | Asmodeus Epzi 👤         |                  
 |--------------------------|
-| [![Owner](<img src="https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013.jpg" width="300" height="300")](https://github.com/HaCkr-EPZI-public/) |
-| <div align="center"> Owner , Developer & Editor </div> |
+| [![Owner](https://i.ibb.co/7yNfxp6/IMG-20240601-WA0013)](https://github.com/HaCkr-EPZI-public/) |
+| <div align="center"> Owner , Developer</div> |
 
 </div>
 
